@@ -4,3 +4,4 @@ src/.ipynb_checkpoints/
 /src/*.h5
 /src/*.db
 music_output_500/
+requirements.txt
